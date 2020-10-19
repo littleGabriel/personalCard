@@ -67,7 +67,6 @@ a:hover{
 #quick_card{
 	position: relative;
 	overflow: hidden;
-	cursor: pointer;
 	padding:25px;
 	margin-top:10vh;
 	text-align:center;
